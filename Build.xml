@@ -1,6 +1,6 @@
 <project name="My Project" default="help" basedir=".">
   <!-- Define the properties used by the build -->
-  <property name="app.name"      value="myp"/>
+  <property name="app.name"      value="helloworld"/>
   <property name="app.version"   value="0.1-dev"/>
   <property name="tcserver.home" value="D:/apache-tomcat-8.0.30-windows-x86/apache-tomcat-8.0.30" />
   <property name="work.home"    value="${basedir}/work"/>
